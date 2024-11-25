@@ -42,6 +42,8 @@ header{
         color: var(--gray-400);
         text-align: center;
         width: 70%;
+        font: var(--text-sm);
+        width: 680px;
     }
 
     ul{

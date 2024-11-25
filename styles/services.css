@@ -41,7 +41,7 @@
             }
 
             p{
-                font: var(--text-md);
+                font: var(--text-sm);
             }
 
             img{
